@@ -149,12 +149,12 @@
     <message>
         <location filename="../pages/History.qml" line="72"/>
         <source> selected: </source>
-        <translation type="unfinished"></translation>
+        <translation> valda: </translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="161"/>
         <source>Search</source>
-        <translation type="unfinished"></translation>
+        <translation>Sök</translation>
     </message>
     <message>
         <location filename="../pages/History.qml" line="191"/>
@@ -359,7 +359,7 @@
     <message>
         <location filename="../pages/Keys.qml" line="93"/>
         <source>WARNING: Do not reuse your Monero keys on another fork, UNLESS this fork has key reuse mitigations built in. Doing so will harm your privacy.</source>
-        <translation type="unfinished"></translation>
+        <translation>VARNING: Använd inte samma Monero-nycklar i en annan förgrening, om inte denna förgrening har skydd mot återanvändning. Annars kan din integritet skadas.</translation>
     </message>
     <message>
         <location filename="../pages/Keys.qml" line="196"/>
